@@ -1,0 +1,8 @@
+{
+  "documentId": "123",
+  "storageRef": "input/invoice.pdf",
+  "metadata": {
+    "type": "invoice",
+    "receivedAt": "2026-05-01T10:00:00Z"
+  }
+}
